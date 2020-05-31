@@ -1,7 +1,7 @@
 name: "YOURNAME"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Alejandro"                             # CHANGE HERE 
+  title: "Alejandro Sánchez-Gracia"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -10,10 +10,10 @@ navbar:
     - text: "About"
       icon: fa-user 
       href: about.html
-    - text: "CV"
+    - text: "Publications"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "Blog"
+    - text: "EG&B-UB"
       icon: fa-rss
       href: https://salejandro.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
