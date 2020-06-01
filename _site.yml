@@ -2,7 +2,7 @@ name: "salejandro"                                # CHANGE HERE
 output_dir: "."
 navbar:
   title: "Alejandro Sánchez-Gracia"                             # CHANGE HERE 
-  type: inverse
+  type: default
   left:
     - text: "Home"
       icon: fa-home
@@ -13,7 +13,7 @@ navbar:
     - text: "Publications"
       icon: fa-file-pdf-o
       href: cv.html
-    - text: "EG&B-UB"
+    - text: "Evolutionary Genomics & Bioinformatics"
       icon: fa-rss
       href: https://salejandro.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
@@ -25,5 +25,5 @@ navbar:
       href: https://github.com/salejandro      # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: flatly
     highlight: textmate
